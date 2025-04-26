@@ -6,6 +6,12 @@ I am a passionate and results-oriented Senior Backend Developer with over 6 year
 
 ---
 
+## GitHub Contributions
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sandip75&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandip75&layout=compact&theme=radical)](https://github.com/sandip75)
+
 ## Technical Skills
 
 - **Languages**: JavaScript, TypeScript, Java, Python, SQL
