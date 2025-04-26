@@ -12,9 +12,9 @@ I am a passionate and results-oriented Senior Backend Developer with over 6 year
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandip75&layout=compact&theme=radical)](https://github.com/sandip75)
 
-## GitHub Contribution Calendar
+## GitHub Activity Chart
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sandip75&theme=github)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sandip75&theme=github)
 
 
 ## Technical Skills
