@@ -21,7 +21,6 @@ I am a versatile and skilled software developer with over 6 years of experience 
 - **Backend**: Node.js, Express.js, Nest.js, GraphQL, Hasura
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud & DevOps**: AWS (Glue, Athena, QuickSight, S3), Docker, Git
-- **Tools**: AWS Lambda, PostgreSQL, MongoDB, Athena, Glue
 
 ---
 
