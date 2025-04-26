@@ -1,58 +1,71 @@
-# Sandip Kumar - Developer & Technical Lead
+# Sandip Kumar - Senior Backend Developer & Technical Lead
 
 ## Contact Information
 - **Phone**: +91-8178877227
 - **Email**: [georgiansandip@gmail.com](mailto:georgiansandip@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sandip4069](https://linkedin.com/in/sandip4069/)
 - **GitHub**: [github.com/sandip75](https://github.com/sandip75)
+- **Interviewbit Profile**: [interviewbit.com/profile/sandip75](https://www.interviewbit.com/profile/sandip75)
+- **HackerEarth Profile**: [hackerearth.com/@sandip54](https://www.hackerearth.com/@sandip54)
 
 ---
 
 ## Professional Summary
 
-I am a versatile and skilled software developer with over 6 years of experience in designing, developing, and deploying scalable software solutions. I specialize in full-stack development, API architecture, and cloud-based infrastructure, having worked with leading organizations in the IT and education sectors.
+I am a passionate and results-oriented Senior Backend Developer with over 6 years of experience in full-stack development, backend engineering, cloud technologies, and building scalable solutions. I specialize in Node.js, NestJS, GraphQL, AWS, and Docker, with a deep focus on optimizing data pipelines, ensuring high performance, and delivering seamless user experiences. I thrive in dynamic environments where innovation and continuous learning are encouraged.
 
 ---
 
 ## Technical Skills
 
-- **Languages**: Java, JavaScript, TypeScript, Python
+- **Languages**: JavaScript, TypeScript, Java, Python
 - **Frontend**: HTML, CSS, Bootstrap, React.js
 - **Backend**: Node.js, Express.js, Nest.js, GraphQL, Hasura
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud & DevOps**: AWS (Glue, Athena, QuickSight, S3), Docker, Git
+- **Tools**: Docker, AWS Lambda, PostgreSQL, MongoDB
 
 ---
 
 ## Professional Experience
 
 ### **Assistant Manager**  
-**Genpact** | Bengaluru | January 2022 - Present
-- Developed the Genome API using NestJS, GraphQL, and PostgreSQL to ensure scalable and optimized performance under high traffic.
-- Led cross-functional teams to build and deliver high-quality features.
-- Optimized data pipelines with AWS Glue, Athena, and QuickSight, enabling automated business intelligence reports.
+**Genpact** | Bengaluru, India | September 2024 - Present
+- Designed and developed the Genome API using NestJS, GraphQL, and PostgreSQL, enabling real-time reporting and improved data flow.
+- Led cross-functional teams to ensure timely project delivery and maintained high-quality code standards.
+- Enhanced data pipelines with AWS Glue, Athena, and QuickSight to automate data processing and reporting for business intelligence insights.
 
-### **Senior Software Developer**  
-**Extramarks Education India Pvt. Ltd.** | Noida | July 2021 - January 2022
-- Full-stack development using React.js, Node.js, MongoDB, and AWS.
-- Worked on report generation, dashboards, and role-based access.
+### **Management Trainee**  
+**Genpact** | Bengaluru, India | January 2022 - September 2024
+- Spearheaded multiple backend projects with a focus on API development, architecture optimization, and team leadership.
+- Collaborated with stakeholders to streamline product development, optimizing workflows and enhancing product features.
+
+### **Senior Software Engineer**  
+**Extramarks Education India Pvt. Ltd.** | Noida, India | July 2021 - January 2022
+- Led the development of a data reporting and dashboarding system as an alternative to AWS QuickSight using Athena, Glue, and S3.
+- Worked on full-stack development, implementing features like report generation and data management using React.js, Node.js, and AWS services.
 
 ### **Full Stack Developer**  
-**Calypsu** | Delhi | November 2020 - July 2021
-- Worked with Node.js, GraphQL, PostgreSQL, Docker, and AWS to build backend features for HR platforms and document lifecycle management.
-- Integrated payment gateways and developed admin panels for smooth operations.
+**Calypsu** | Delhi, India | November 2020 - July 2021
+- Developed backend features for HR platforms using Node.js, PostgreSQL, GraphQL, Docker, and AWS.
+- Integrated payment systems and designed robust admin panels, improving the overall user experience of the platform.
 
 ### **Software Developer**  
-**Travel Boutique Online (TBO)** | Gurgaon, Haryana | December 2018 – November 2020
-- Developed and maintained APIs and B2B/B2C websites using Node.js, MongoDB, and Express.js.
+**Travel Boutique Online (TBO)** | Gurgaon, India | December 2018 - November 2020
+- Developed the E-Visa RESTful API and integrated various modules into B2B/B2C websites using Node.js, TypeScript, and MongoDB.
+- Maintained and updated flight and hotel modules for B2B and B2C platforms.
 
-### **Intern - Android Developer**  
-**Eddviss** | Delhi | March 2018 – July 2018
-- Developed a custom comment and query system for a video app and integrated payment systems.
+### **Founder**  
+**C.O.D.E. (Collaborative Open Development Environment)** | Delhi, India | September 2018 - July 2019
+- Founded a technical society aimed at helping juniors with their development skills and fostering a collaborative learning environment.
 
-### **Intern - Web Developer**  
-**RedCube Digital Media Pvt. Ltd.** | Delhi | December 2016 – April 2017
-- Developed web pages using PHP for client projects.
+### **Android Developer (Intern)**  
+**Eddviss** | Delhi, India | March 2018 - July 2018
+- Developed and integrated features for an e-learning platform, including a comment and query system, referral system, and payment gateway integration.
+
+### **Web Developer (Intern)**  
+**RedCube Digital Media Pvt. Ltd.** | New Delhi, India | December 2016 - April 2017
+- Worked on various UI screens and learned key development practices such as version control and web development basics.
 
 ---
 
@@ -68,34 +81,20 @@ I am a versatile and skilled software developer with over 6 years of experience 
 
 ### **Gold Saver App (Backend Developer & Product Manager)**  
 **July 2024 - February 2025**
-- Developed a mobile app for gold savings, including backend infrastructure, API development, and integration of payment systems and APIs.
+- Developed a finance-focused mobile application for gold savings, focusing on backend API design, integration of payment systems, and working closely with cross-functional teams.
 
 ### **Georgian Academy**  
 **January 2020 - February 2020**
-- Developed the website for Georgian Academy ([georgiansacademy.com](https://georgiansacademy.com/)).
+- Designed and developed the website for Georgian Academy ([georgiansacademy.com](https://georgiansacademy.com/)).
 
 ---
 
-## Education
+## Freelance Availability
 
-- **B.Tech in Computer Science**  
-  Guru Gobind Singh Indraprastha University | 2015-2019 | 72.66%
-- **12th**  
-  Dwarka International School | 2015 | 85.4%
-- **10th**  
-  Rashtriya Military School | 2013 | 7.8 CGPA
-
----
-
-## Extracurricular Activities
-
-- Founder of C.O.D.E. (Collaborative Open Development Environment)
-- Member of Zaria Society for Social Work
-- Active participant in basketball tournaments
+I am currently available for freelance work and open to picking full projects. If you're looking for a dedicated and highly skilled developer for your project, feel free to reach out to discuss your requirements!
 
 ---
 
 ## Open-Source Contributions
 
-- Contributions to various open-source repositories and projects, showcasing my commitment to community development and continuous learning.
-
+- Contributed to various open-source repositories, demonstrating my commitment to continuous learning and community-driven development.
