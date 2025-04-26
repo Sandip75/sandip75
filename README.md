@@ -1,14 +1,4 @@
-# Sandip Kumar - Senior Backend Developer & Technical Lead
-
-## Contact Information
-- **Phone**: +91-8178877227
-- **Email**: [georgiansandip@gmail.com](mailto:georgiansandip@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sandip4069](https://linkedin.com/in/sandip4069/)
-- **GitHub**: [github.com/sandip75](https://github.com/sandip75)
-- **Interviewbit Profile**: [interviewbit.com/profile/sandip75](https://www.interviewbit.com/profile/sandip75)
-- **HackerEarth Profile**: [hackerearth.com/@sandip54](https://www.hackerearth.com/@sandip54)
-
----
+# Hi there, I'm Sandip Kumar! 👋 Senior Backend Developer & Technical Lead
 
 ## Professional Summary
 
@@ -18,12 +8,11 @@ I am a passionate and results-oriented Senior Backend Developer with over 6 year
 
 ## Technical Skills
 
-- **Languages**: JavaScript, TypeScript, Java, Python
-- **Frontend**: HTML, CSS, Bootstrap, React.js
+- **Languages**: JavaScript, TypeScript, Java, Python, SQL
+- **Frontend**: HTML, CSS, Bootstrap, React.js, Next.js
 - **Backend**: Node.js, Express.js, Nest.js, GraphQL, Hasura
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud & DevOps**: AWS (Glue, Athena, QuickSight, S3), Docker, Git
-- **Tools**: Docker, AWS Lambda, PostgreSQL, MongoDB
 
 ---
 
@@ -92,6 +81,16 @@ I am a passionate and results-oriented Senior Backend Developer with over 6 year
 ## Freelance Availability
 
 I am currently available for freelance work and open to picking full projects. If you're looking for a dedicated and highly skilled developer for your project, feel free to reach out to discuss your requirements!
+
+---
+
+## Contact Information
+- **Phone**: +91-8178877227
+- **Email**: [georgiansandip@gmail.com](mailto:georgiansandip@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sandip4069](https://linkedin.com/in/sandip4069/)
+- **GitHub**: [github.com/sandip75](https://github.com/sandip75)
+- **Interviewbit Profile**: [interviewbit.com/profile/sandip75](https://www.interviewbit.com/profile/sandip75)
+- **HackerEarth Profile**: [hackerearth.com/@sandip54](https://www.hackerearth.com/@sandip54)
 
 ---
 
